@@ -1,0 +1,11 @@
+.test a:hover,
+.test a:focus {
+    color: #FFC61A !important;
+    text-decoration: none;
+}
+
+.test {
+    padding: 15px;
+    font-size: 14px;
+    font-weight: bolder;
+}
